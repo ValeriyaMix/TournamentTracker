@@ -69,7 +69,7 @@ namespace TrackerUI
             }
 
             //Create our Tournament model
-            TournamentModel tm= new TournamentModel();
+            TournamentModel tm = new TournamentModel();
             tm.TournamentName = tournamentNameValue.Text;
             tm.EntryFee = fee;
 
